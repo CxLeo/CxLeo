@@ -6,7 +6,7 @@ A passionate web developer with one year of experience building full-stack web a
 - Next.js, Redux, Tailwind, Framer-motion, Storybook, Express, Prisma
 
 ### I don't like to work with
-- colleagues who don't take showers
+- rude colleagues
 
 ## 🌱 Currently Exploring
 I'm currently diving deeper into **Large Language Models (LLMs)** and **OpenAI API**. I’m excited about how these technologies can be integrated into web development to create smarter, more interactive applications.
